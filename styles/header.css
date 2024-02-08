@@ -71,7 +71,7 @@
     gap: 16px;
 }
 
-.profile_picture {
+.profile_picture img{
     width: 24px;
     border-radius: 50%;
 }
